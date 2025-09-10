@@ -1,23 +1,25 @@
 # Handwritten Digit Classification using a Convolutional Neural Network (CNN)
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the famous MNIST dataset. The model is built using TensorFlow and Keras and achieves high accuracy in recognizing digits from 0 to 9.
 
-Developed by Anshika Sharma.
+> Developed by Anshika Sharma
 
 ## 📋 Table of Contents
-Project Overview
 
-Model Architecture
+> Project Overview
 
-Results
+> Model Architecture
 
-How to Run
+> Results
 
-Dependencies
+> How to Run
+
+> Dependencies
 
 ## ✨ Project Overview
 The goal of this project is to build and train a deep learning model capable of accurately identifying handwritten digits. This is a classic "Hello World" project in the field of computer vision, demonstrating the power of CNNs for image classification tasks.
 
-### Dataset: The model is trained on the MNIST dataset, provided here as train.csv and test.csv. This dataset originated from a Kaggle competition and consists of tens of thousands of 28x28 pixel grayscale images of handwritten digits.
+### Dataset
+The model is trained on the MNIST dataset, provided here as train.csv and test.csv. This dataset originated from a Kaggle competition and consists of tens of thousands of 28x28 pixel grayscale images of handwritten digits.
 
 ## 🧠 Model Architecture
 The Convolutional Neural Network is a sequential model constructed with the following layers, designed to effectively learn features from the digit images:
@@ -86,14 +88,14 @@ jupyter notebook "CNN Model on MNIST Dataset for written digit classification.ip
 ## 📦 Dependencies
 All required Python libraries are listed in the requirements.txt file. Key libraries include:
 
-TensorFlow & Keras
+> TensorFlow & Keras
 
-Pandas
+> Pandas
 
-NumPy
+> NumPy
 
-Scikit-learn
+> Scikit-learn
 
-Matplotlib
+> Matplotlib
 
-Seaborn
+> Seaborn
