@@ -1,0 +1,16 @@
+.gitignore
+Ignore datasets
+These are too large for the repository.
+Add instructions in the README for where to download them.
+*.csv
+
+Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+Python cache
+pycache/
+*.pyc
+
+Environment files
+.env
+venv/
